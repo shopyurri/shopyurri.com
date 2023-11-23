@@ -1,1 +1,1 @@
-# shopyurri.com
+# shopyurri.github.io
